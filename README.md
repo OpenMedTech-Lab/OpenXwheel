@@ -1,10 +1,10 @@
 # <P align="center"> StandingWheelchiar - An open design of a manual standing wheelchiar for people with paralysis 
  
 ### OBJECTIVES:
-<P align="justify"> The objective of the project was to design a low-cost manual standing wheelchair for people with paraplegia caused by spinal cord injury 
+<P align="justify"> The objective of the project was to design a low-cost manual standing wheelchair for people with paraplegia caused by spinal cord injury.</P> 
 
 ### BACKGROUND:
-<P align="justify"> Individuals with paralysis or weakness below the waist can perform a variety of daily tasks by sitting using their upper body and can live a fulfilling life after a spinal cord injury (SCI). However, continuous sitting on a wheelchair can cause serious consequences including life threatening pressure ulcers in these individuals. Pressure ulcers indeed the number one cause of death in SCI in middle- and low-income counties. A standing wheelchair can easily solve this problem and is highly recommended for these individuals not only to avoid pressure ulcers but also to have numerous health benefits such as improved cardiovascular health, increased muscle mass and bone density below the level of injury by simply standing regularly. But conventional standing wheelchairs are too expensive for the majority of SCI individuals to reap the benefits of standing. Hence, the objective of this project was to develop a low-cost open-source standing wheelchair for people with paraplegia.
+<P align="justify"> Individuals with paralysis or weakness below the waist can perform a variety of daily tasks by sitting using their upper body and can live a fulfilling life after a spinal cord injury (SCI). However, continuous sitting on a wheelchair can cause serious consequences including life threatening pressure ulcers in these individuals. Pressure ulcers indeed the number one cause of death in SCI in middle- and low-income counties. A standing wheelchair can easily solve this problem and is highly recommended for these individuals not only to avoid pressure ulcers but also to have numerous health benefits such as improved cardiovascular health, increased muscle mass and bone density below the level of injury by simply standing regularly. But conventional standing wheelchairs are too expensive for the majority of SCI individuals to reap the benefits of standing. Hence, the objective of this project was to develop a low-cost open-source standing wheelchair for people with paraplegia.</P>
  
 ![Block-Diagram](https://github.com/SHOVANPARVEZ/StandingWheelchair-manual/blob/main/StandingWheelchair-Manual.png)
 
@@ -25,7 +25,7 @@
 ### DESIGN:
 <P align="justify"> The standing wheelchair has nine major parts/components. Each of the parts/components are described in the following:
  
-![Schematic_SWC-shovans-creation_2024-03-10](https://github.com/SHOVANPARVEZ/StandingWheelchair-manual/assets/140902671/615a07f6-ebe2-484d-b3f2-33ca988124fc)
+![Schematic_SWC-shovan](https://github.com/SHOVANPARVEZ/StandingWheelchair-manual/blob/main/standing%20wheelchair%20design.png)
 
 
 ###
@@ -40,7 +40,7 @@
 - Footrest: This special footrest is used to support the user's feet while sitting and standing. During the transition from a sitting to a standing position, the footrest height changes to allow safe standing.
  
 ### DISCLAIMER:
-<P align="justify"> The design is offered as it is. Although it has been regorously tested by a number of paraplegic wheelchiar users, we do not provide any warranty in any aspect.
+<P align="justify"> The design is offered as it is. Although it has been regorously tested by a number of paraplegic wheelchiar users, we do not provide any warranty in any aspect.</P>
 
 ### WARNING:
 - The device is intended stricktly for research and education purposes.
