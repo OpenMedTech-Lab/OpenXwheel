@@ -46,8 +46,8 @@
 - The device is intended stricktly for research and education purposes.
 - The wheelchiar is not certified for use without receving prior approval from a local safety board or review committee.
 
-### CONTACT:
-<P align="justify"> Shovan Parvez <br/>
+### DEVOLOPED BY:
+ Shovan Parvez <br/>
  Email: shovan.creation@gmail.com <br/>
  Phone: +880 1303-689584 <br/>
 
