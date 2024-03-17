@@ -46,9 +46,9 @@
 - The device is intended stricktly for research and education purposes.
 - The wheelchair is not certified for use without receving prior approval from a local safety board or review committee.
 
+### LICENSE:
+##### Documentation and all the source files are licensed under the Creative Commons Attribution Share Alike 4.0 International License
+
 ### DEVOLOPED BY:
  Shovan Parvez <br/>
  Email: shovan.creation@gmail.com <br/>
-
-### LICENSE:
-##### Documentation and all the source files are licensed under the Creative Commons Attribution Share Alike 4.0 International License
