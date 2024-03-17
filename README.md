@@ -49,7 +49,6 @@
 ### DEVOLOPED BY:
  Shovan Parvez <br/>
  Email: shovan.creation@gmail.com <br/>
- Phone: +880 1303-689584 <br/>
 
 ### LICENSE:
 ##### Documentation and all the source files are licensed under the Creative Commons Attribution Share Alike 4.0 International License
